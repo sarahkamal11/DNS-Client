@@ -8,7 +8,9 @@ Install the required dependency:
 pip install dnspython
 
 Run the script from the terminal:
+
 python dnsclient.py <hostname> <query_type>
 
 Example:
+
 python dns_query.py google.com A
